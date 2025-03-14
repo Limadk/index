@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+
+.myboxtoto { 
+	width: 240px;
+	height: 240px;
+	background-color: #80C9E7;
+	
+}
+.emblema-one-regular {
+  font-family: "Emblema One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.navbar-brand { 
+	backgroundcolor: #BA4FB1; }
